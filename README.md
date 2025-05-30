@@ -22,4 +22,4 @@ The way I made my is by TranslucenTTb (TTB)
 
 Install with MS Store : https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=en-US&gl=US
 
-And here is the json file : 
+And here is the json file : https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/configs/TTB.json
