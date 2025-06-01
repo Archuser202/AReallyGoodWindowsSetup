@@ -38,7 +38,9 @@ and this is the config : https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/
 
 ## Terminal NERD FONT PLS
 
-The terminal I use is Windows terminal (or Microfoft Terminal )
+[!alt text]()
+
+The terminal I use is Windows terminal (or Microsoft Terminal )
 
 Install it here : https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US
 
