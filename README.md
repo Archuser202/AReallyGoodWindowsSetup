@@ -38,7 +38,7 @@ and this is the config : https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/
 
 ## Terminal NERD FONT PLS
 
-[!alt text](https://github.com/Abhiramkk/AReallyGoodWindowsSetup/blob/main/assets%2FTerminal.png)
+![alt text](https://github.com/Abhiramkk/AReallyGoodWindowsSetup/blob/main/assets%2FTerminal.png)
 
 The terminal I use is Windows terminal (or Microsoft Terminal )
 
