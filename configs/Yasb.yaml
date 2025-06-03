@@ -14,9 +14,9 @@ bars:
       enabled: true
       duration: 1000
     blur_effect:
-      enabled: false
-      acrylic: false
-      dark_mode: false
+      enabled: true
+      acrylic: true
+      dark_mode: true
       round_corners: false
       round_corners_type: "normal"
       border_color: "System"
@@ -34,14 +34,15 @@ bars:
     widgets:
       left:
         - "home"
-        - "glazewm_workspaces"
+       # - "glazewm_workspaces"
         - "clock"
         - "apps"
       center:
         - "cpu"
         - "memory"
-      right:
         - "traffic"
+      right:
+        
         - "battery"
         - "volume"
         - "brightness"
@@ -98,9 +99,9 @@ widgets:
         right: 8
       label: "{data}"
       app_list:
-        - { icon: "\uf422", launch: "search" }
+        - { icon: "\uf422", launch: "C:\\Users\\WINDOWS\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Flow Launcher\\Flow Launcher.lnk" }
         - { icon: "\ueb03", launch: "cmd /c Taskmgr" }
-        - { icon: "\udb80\ude39", launch: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" }
+        - { icon: "\udb80\ude39", launch: "C:\\Program Files\\Zen Browser\\zen.exe"}
 
   clock:
     type: "yasb.clock.ClockWidget"
