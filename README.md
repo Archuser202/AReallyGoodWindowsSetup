@@ -46,7 +46,7 @@ Install it here : https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US
 
 
 
-Here is the Nerd font I am using : JetBrainsMono Nerd Font Propo (you can use any font I gave )
+Here is the Nerd font I am using : Monocraft nerd font (you can use any font I gave )
 
 Settings config : https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/configs/Terminal.json
 
