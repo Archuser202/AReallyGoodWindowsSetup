@@ -4,11 +4,11 @@ Hi this is my entire setup and this might look great
 
 ## Desktop : 
 
-![alt text](https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/assets/archbtw.jpg)
+![alt text](https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/assets/archbtw.png)
 
 The Wallpaper : 
 
-![alt text](https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/assets/Wallpaperpixel.jpg)
+![alt text](https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/assets/archbtw.png)
 
 Link :
 
