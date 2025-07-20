@@ -4,7 +4,7 @@ Hi this is my entire setup and this might look great
 
 ## Desktop : 
 
-![alt text](https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/assets/Desktop.png)
+![alt text](https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/assets/archbtw.jpg)
 
 The Wallpaper : 
 
