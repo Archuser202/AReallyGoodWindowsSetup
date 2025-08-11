@@ -90,6 +90,11 @@ Paste the winfetch config in your winfecth config (if you want)
 Config : https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/configs/Winfecth.ps1
 
 
+# Rainmeter
+
+The mods : Mond , Simple Weather Widget
+
+
 # The Configs : 
 
 Winfetch :
