@@ -8,7 +8,7 @@ Hi this is my entire setup and this might look great
 
 The Wallpaper : 
 
-![alt text](https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/assets/archbtw.png)
+![alt text](https://github.com/Abhiramkk/MyEntireWindowsSetup/blob/main/assets/Wallpaper.png)
 
 Link :
 
